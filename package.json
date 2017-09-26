@@ -1,0 +1,16 @@
+{
+  "name": "krakatoa",
+  "version": "1.0.0",
+  "description": "an telegram bot for feed for news with filter for keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafael@fumasa.org",
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^2.2.1",
+    "request": "^2.82.0",
+    "telebot": "^1.2.3"
+  }
+}
